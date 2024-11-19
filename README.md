@@ -22,5 +22,7 @@ https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
 
 ---
 
+# Results
+
 ![simpson-simulation-1](simpson-simulation-1.png)
 ![simpson-simulation-2](simpson-simulation-2.jpg)
