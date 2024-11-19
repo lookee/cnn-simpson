@@ -19,3 +19,8 @@ https://www.lucaamore.com/?p=2301
 
 dataset:
 https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset
+
+---
+
+![simpson-simulation-1](simpson-simulation-1.png)
+![simpson-simulation-2](simpson-simulation-2.jpg)
