@@ -113,15 +113,6 @@ Detailed walkthrough and project explanation available here:
 
 ---
 
-## 📌 Future Enhancements
-
-- Replace ResNet50 with **EfficientNet** for improved FLOPs/accuracy
-- Add image-enhancement pre-processing (noise reduction, segmentation)
-- Live inference demo with **TensorFlow Lite** or **ONNX Runtime**
-- Additional characters and synthetic augmentation with Stable Diffusion
-
----
-
 ## 📜 License
 
 Distributed under the **GPL v3** license.  
