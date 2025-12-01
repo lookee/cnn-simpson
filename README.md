@@ -9,6 +9,14 @@ RESNET50 - CNN - TRANSFER LEARNING - DATA AUGMENTATION - KAGGLE DATASET
 Luca Amore <luca.amore at gmail.com>
 https://www.lucaamore.com
 
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-API-red.svg)
+![ResNet50](https://img.shields.io/badge/Model-ResNet50-green.svg)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Enabled-brightgreen.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20beff.svg?style=flat&logo=kaggle)
+
 ---
 
 kaggle:
