@@ -14,7 +14,7 @@ https://www.lucaamore.com
 kaggle:
 https://www.kaggle.com/code/lucaamore/convnet50-simpson-character-identifer
 
-blob post:
+blog post:
 https://www.lucaamore.com/?p=2301
 
 dataset:
