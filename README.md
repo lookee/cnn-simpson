@@ -84,19 +84,6 @@ Key Metrics:
 
 ---
 
-## 🛠️ Tech Stack
-
-| Component | Version |
-|----------|---------|
-| Python | 3.10 |
-| TensorFlow | 2.x |
-| Keras | Latest API |
-| GPU Acceleration | Optional (highly recommended) |
-
-Training was executed through Kaggle GPUs.
-
----
-
 ## ▶️ Try It Yourself
 
 Access the runnable training notebook on Kaggle:
