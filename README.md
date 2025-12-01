@@ -16,7 +16,6 @@ https://www.lucaamore.com
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-Enabled-brightgreen.svg)
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20beff.svg?style=flat&logo=kaggle)
-[![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-20beff.svg?style=flat&logo=kaggle)](https://www.kaggle.com/code/lucaamore/convnet50-simpson-character-identifer)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20beff.svg?style=flat&logo=kaggle)](https://www.kaggle.com/datasets/alexattia/the-simpsons-characters-dataset)
 
 ---
